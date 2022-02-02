@@ -1,0 +1,47 @@
+PODS:
+  - connectivity_plus (0.0.1):
+    - Flutter
+    - ReachabilitySwift
+  - Flutter (1.0.0)
+  - geolocator_apple (1.2.0):
+    - Flutter
+  - network_info_plus (0.0.1):
+    - Flutter
+  - path_provider (0.0.1):
+    - Flutter
+  - ReachabilitySwift (5.0.0)
+
+DEPENDENCIES:
+  - connectivity_plus (from `.symlinks/plugins/connectivity_plus/ios`)
+  - Flutter (from `Flutter`)
+  - geolocator_apple (from `.symlinks/plugins/geolocator_apple/ios`)
+  - network_info_plus (from `.symlinks/plugins/network_info_plus/ios`)
+  - path_provider (from `.symlinks/plugins/path_provider/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ReachabilitySwift
+
+EXTERNAL SOURCES:
+  connectivity_plus:
+    :path: ".symlinks/plugins/connectivity_plus/ios"
+  Flutter:
+    :path: Flutter
+  geolocator_apple:
+    :path: ".symlinks/plugins/geolocator_apple/ios"
+  network_info_plus:
+    :path: ".symlinks/plugins/network_info_plus/ios"
+  path_provider:
+    :path: ".symlinks/plugins/path_provider/ios"
+
+SPEC CHECKSUMS:
+  connectivity_plus: 413a8857dd5d9f1c399a39130850d02fe0feaf7e
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  geolocator_apple: b741765c55dc21950e3e106e8b3584e55cf81ce5
+  network_info_plus: b78876159360f5580608c2cea620d6ceffabd0ad
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
+  ReachabilitySwift: 985039c6f7b23a1da463388634119492ff86c825
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.10.1
